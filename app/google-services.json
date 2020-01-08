@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478373503170",
+    "firebase_url": "https://corsitapp.firebaseio.com",
+    "project_id": "corsitapp",
+    "storage_bucket": "corsitapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478373503170:android:421f8f430b0f10121c1b5b",
+        "android_client_info": {
+          "package_name": "com.example.corsit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478373503170-km6q3bdsnslf62qmc7rousmtr6e1g7pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBthA3frVXFCa8G7Pe4FtncfChXoF9SDes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478373503170-km6q3bdsnslf62qmc7rousmtr6e1g7pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
